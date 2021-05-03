@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/birabohawa/static/css/main.be80b3c6.chunk.css",
+    "main.js": "/birabohawa/static/js/main.25788a39.chunk.js",
+    "main.js.map": "/birabohawa/static/js/main.25788a39.chunk.js.map",
+    "runtime-main.js": "/birabohawa/static/js/runtime-main.9b935f06.js",
+    "runtime-main.js.map": "/birabohawa/static/js/runtime-main.9b935f06.js.map",
+    "static/js/2.48c771a4.chunk.js": "/birabohawa/static/js/2.48c771a4.chunk.js",
+    "static/js/2.48c771a4.chunk.js.map": "/birabohawa/static/js/2.48c771a4.chunk.js.map",
+    "index.html": "/birabohawa/index.html",
+    "static/css/main.be80b3c6.chunk.css.map": "/birabohawa/static/css/main.be80b3c6.chunk.css.map",
+    "static/js/2.48c771a4.chunk.js.LICENSE.txt": "/birabohawa/static/js/2.48c771a4.chunk.js.LICENSE.txt",
+    "static/media/logo.a9458920.png": "/birabohawa/static/media/logo.a9458920.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b935f06.js",
+    "static/js/2.48c771a4.chunk.js",
+    "static/css/main.be80b3c6.chunk.css",
+    "static/js/main.25788a39.chunk.js"
+  ]
+}
