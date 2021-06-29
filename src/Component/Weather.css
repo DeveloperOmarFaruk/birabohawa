@@ -2,6 +2,12 @@ body {
     background: #eeeeee;
 }
 
+.weather-section {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
 .box {
     margin-top: 4rem;
     margin-bottom: 4rem;
@@ -44,7 +50,7 @@ body {
 }
 
 .cloud:after {
-    content: '';
+    content: "";
     position: absolute;
     bottom: 0;
     left: -0.5em;
@@ -96,7 +102,7 @@ body {
 
 .rays:before,
 .rays:after {
-    content: '';
+    content: "";
     position: absolute;
     top: 0em;
     left: 0em;
@@ -129,7 +135,7 @@ body {
 }
 
 .rain:after {
-    content: '';
+    content: "";
     position: absolute;
     z-index: 2;
     top: 50%;
@@ -254,15 +260,16 @@ body {
 }
 
 .footer-app {
-    font-size: .8rem;
+    font-size: 0.8rem;
     padding-top: 6rem;
     color: #ffffff;
 }
 
 .last-footer {
-    font-size: .8rem;
+    font-size: 0.8rem;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .footer-logo {
@@ -272,4 +279,18 @@ body {
 
 .bir-footer {
     color: #f83600;
+}
+
+@media (max-width: 768px) {
+    .weather-section {
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+    .box {
+        margin: 4rem auto;
+        width: 90%;
+        min-width: 90%;
+        display: block;
+    }
 }
