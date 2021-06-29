@@ -11,6 +11,7 @@ const Weather = () => {
 
   const onHandleChange = (e) => {
     setSearch(e.target.value);
+    setCity(e.target.value);
   };
 
   useEffect(async () => {
