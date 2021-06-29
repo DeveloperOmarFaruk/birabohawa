@@ -72,10 +72,13 @@ const Weather = () => {
                   {search}
                 </h2>
 
-                <h4 className="temp">{city.temp}° Celsius</h4>
+                <h4 className="temp">
+                  {city.temp ? city.temp : 25.5}° Celsius
+                </h4>
 
                 <h6 className="tempmin_max">
-                  Min : {city.temp_min}° Cel | Max : {city.temp_max}° Cel
+                  Min : {city.temp_min ? city.temp_min : 20.5}° Cel | Max :{" "}
+                  {city.temp_max ? city.temp_max : 27.5}° Cel
                 </h6>
               </div>
 
