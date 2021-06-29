@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/birabohawa/static/css/main.4c73c0af.chunk.css",
-    "main.js": "/birabohawa/static/js/main.0f385b4d.chunk.js",
-    "main.js.map": "/birabohawa/static/js/main.0f385b4d.chunk.js.map",
+    "main.js": "/birabohawa/static/js/main.1930c02c.chunk.js",
+    "main.js.map": "/birabohawa/static/js/main.1930c02c.chunk.js.map",
     "runtime-main.js": "/birabohawa/static/js/runtime-main.9b935f06.js",
     "runtime-main.js.map": "/birabohawa/static/js/runtime-main.9b935f06.js.map",
     "static/js/2.dd0d9e00.chunk.js": "/birabohawa/static/js/2.dd0d9e00.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.9b935f06.js",
     "static/js/2.dd0d9e00.chunk.js",
     "static/css/main.4c73c0af.chunk.css",
-    "static/js/main.0f385b4d.chunk.js"
+    "static/js/main.1930c02c.chunk.js"
   ]
 }
